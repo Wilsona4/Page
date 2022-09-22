@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Page</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="users">Users</string>
+    <string name="favourites">Favourites</string>
+    <string name="no_results">No results</string>
+    <string name="refresh">Retry</string>
+    <string name="html_url">https://github.com/ezequiellagos</string>
+    <string name="username">Username</string>
+    <string name="user">User</string>
+    <string name="mr_wil">Mr Wil</string>
+    <string name="gists">Gists</string>
+    <string name="visual_photo_me">visual-photo.me</string>
+    <string name="repositories">Repositories</string>
+    <string name="organization">Organization</string>
+    <string name="error_occurred_kindly_retry">Error occurred kindly retry</string>
+</resources>
